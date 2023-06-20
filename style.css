@@ -1,0 +1,66 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+    background-color: #1E1E1E;
+}
+
+.r {
+    background-color: #E82C4F;
+    position: relative;
+    top: 152px; right: 1389px; bottom: 715px; left: 161px;
+    width: 60px;
+    height: 60px;
+
+    color: white;
+    font-size: 46px; 
+    text-align: center; 
+
+    font-style: normal;
+ 
+}
+
+.kotakputih {
+    width: 20px;
+    height: 20px;
+    background-color: white;
+
+    position: absolute;
+    top: -18px; left: -20px;
+
+}
+
+h2 {
+    font-family: 'Bebas Neue';
+    color: white;
+    text-align: center;
+    font-size: 96px;
+    font-weight: 400;
+
+    position: absolute;
+    top: 103px;
+    right: 1018px;
+    bottom: 715px;
+    left: 261px;
+    
+}
+
+h1 {
+    position: absolute;
+    width: 800px;
+    height: 400px;
+    left: 130px;
+    top: 250px;
+    font-family: 'Bebas Neue';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 130px;
+    line-height: 93.5%;
+    display: flex;
+    align-items: center;
+    color: #FFFFFF;
+    
+}
+
